@@ -8,7 +8,7 @@
 #include "Veterinarian.h"
 
 int main() {
-    Dog* dog = new Dog("Jack");
+    Dog* dog = new Dog("Sharick");
     Cat* cat = new Cat("Sonya");
     Bear* bear = new Bear("Teddy");
 
